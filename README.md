@@ -25,3 +25,4 @@ water
 Coffee
 Oolong Tea
 魔材
+Milk
