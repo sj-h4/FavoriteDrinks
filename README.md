@@ -25,3 +25,5 @@ water
 Coffee
 Oolong Tea
 Coca Cola
+魔材
+Milk
