@@ -34,3 +34,6 @@ Coca Cola
 Milk  
 breakfast tea  
 Coke Zero
+Tea
+sekitoba
+Black tea
